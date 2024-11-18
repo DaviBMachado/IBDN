@@ -2,7 +2,7 @@ export function container(){
     return  `
 
             <div class="partners-text">
-                <img src="/src/img/parceiros_natureza.png" alt="Parceiros da Natureza">
+                <img src="src/img/parceiros_natureza.png" alt="Parceiros da Natureza">
                 <div>
                     <h2>PARCEIROS DA NATUREZA:</h2>
                     <p>
