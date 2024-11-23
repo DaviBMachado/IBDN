@@ -14,7 +14,7 @@ export function loadHeader() {
                         <li><a href="#form">Contato</a></li>
                     </ul>
                 </nav>
-                <a href="#" class="btn-donation">Doação</a>
+                <a href="https://pagseguro.uol.com.br/checkout/v2/donation.html" class="btn-donation">Doação</a>
                 <button class="toggle-btn" id="toggle-btn">
                     <span class="bar"></span>
                     <span class="bar"></span>
