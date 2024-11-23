@@ -628,10 +628,12 @@
 
 .texto-direita {
     text-align: left;
+    line-height:  30px;
 }
 
 .texto-esquerda {
     text-align: right;
+    line-height:  30px;
 }
 
 .background2-quemsomos {
@@ -674,6 +676,7 @@
 .texto-local {
     flex: 1; /* O texto ocupará o restante do espaço */
     padding: 0 20px; /* Espaçamento interno ao redor do texto */
+    line-height:  30px;
 }
 
 .onde-estamos {
